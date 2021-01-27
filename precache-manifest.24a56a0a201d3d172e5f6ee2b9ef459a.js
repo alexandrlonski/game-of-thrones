@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "f26157a3826a9005e017",
-    "url": "/alexandrlonski/game-of-thrones/static/css/main.43473269.chunk.css"
+    "revision": "d6cf3c9e01f52e30ace3",
+    "url": "/alexandrlonski/game-of-thrones/static/css/main.dcbaf839.chunk.css"
   },
   {
-    "revision": "f26157a3826a9005e017",
-    "url": "/alexandrlonski/game-of-thrones/static/js/main.f26157a3.chunk.js"
+    "revision": "d6cf3c9e01f52e30ace3",
+    "url": "/alexandrlonski/game-of-thrones/static/js/main.d6cf3c9e.chunk.js"
   },
   {
     "revision": "8dcb33c5be29b26496be",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/alexandrlonski/game-of-thrones/static/media/got.4da81083.jpeg"
   },
   {
-    "revision": "9cf7a9b314570fc005adf5b4bd8ed803",
+    "revision": "781c3fe9373ad21702320f402b37b6b1",
     "url": "/alexandrlonski/game-of-thrones/index.html"
   }
 ];

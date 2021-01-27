@@ -1,7 +1,7 @@
 {
-  "main.css": "/alexandrlonski/game-of-thrones/static/css/main.43473269.chunk.css",
-  "main.js": "/alexandrlonski/game-of-thrones/static/js/main.f26157a3.chunk.js",
-  "main.js.map": "/alexandrlonski/game-of-thrones/static/js/main.f26157a3.chunk.js.map",
+  "main.css": "/alexandrlonski/game-of-thrones/static/css/main.dcbaf839.chunk.css",
+  "main.js": "/alexandrlonski/game-of-thrones/static/js/main.d6cf3c9e.chunk.js",
+  "main.js.map": "/alexandrlonski/game-of-thrones/static/js/main.d6cf3c9e.chunk.js.map",
   "static/css/1.adce926e.chunk.css": "/alexandrlonski/game-of-thrones/static/css/1.adce926e.chunk.css",
   "static/js/1.8dcb33c5.chunk.js": "/alexandrlonski/game-of-thrones/static/js/1.8dcb33c5.chunk.js",
   "static/js/1.8dcb33c5.chunk.js.map": "/alexandrlonski/game-of-thrones/static/js/1.8dcb33c5.chunk.js.map",
@@ -9,9 +9,9 @@
   "runtime~main.js.map": "/alexandrlonski/game-of-thrones/static/js/runtime~main.0c94ec52.js.map",
   "static/media/error.jpg": "/alexandrlonski/game-of-thrones/static/media/error.22389cf4.jpg",
   "static/media/app.css": "/alexandrlonski/game-of-thrones/static/media/got.4da81083.jpeg",
+  "static/css/main.dcbaf839.chunk.css.map": "/alexandrlonski/game-of-thrones/static/css/main.dcbaf839.chunk.css.map",
   "static/css/1.adce926e.chunk.css.map": "/alexandrlonski/game-of-thrones/static/css/1.adce926e.chunk.css.map",
-  "static/css/main.43473269.chunk.css.map": "/alexandrlonski/game-of-thrones/static/css/main.43473269.chunk.css.map",
   "index.html": "/alexandrlonski/game-of-thrones/index.html",
-  "precache-manifest.ff574492f928d049f46600b0d239184c.js": "/alexandrlonski/game-of-thrones/precache-manifest.ff574492f928d049f46600b0d239184c.js",
+  "precache-manifest.24a56a0a201d3d172e5f6ee2b9ef459a.js": "/alexandrlonski/game-of-thrones/precache-manifest.24a56a0a201d3d172e5f6ee2b9ef459a.js",
   "service-worker.js": "/alexandrlonski/game-of-thrones/service-worker.js"
 }
